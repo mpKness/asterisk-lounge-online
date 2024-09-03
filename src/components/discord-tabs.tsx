@@ -6,7 +6,7 @@ interface DiscordChannel {
 }
 
  const data: DiscordChannel[] = [
-  {
+  /*{
     label: "General Board Games",
     value: "generalBoardGames",
     channel: "93736020943577088",
@@ -25,7 +25,7 @@ interface DiscordChannel {
     label: "Kickstarters",
     value: "kickstarters",
     channel: "915305206173020201",
-  },
+  },*/
   {
     label: "Collection Management",
     value: "collectionManagement",
